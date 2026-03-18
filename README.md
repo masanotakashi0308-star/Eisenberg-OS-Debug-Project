@@ -1,6 +1,3 @@
-# Eisenberg-OS-Debug-Project
-The complete log of the global power structure and the Eisenberg-OS. For the dawn of the 19th. (世界解体新書：アイゼンバーグOSの完全デバッグログ)
-
 # 世界解体新書：血の盟約とアイゼンバーグ・OS（最終確定版）
 # The New Anatomy of World Deconstruction: The Blood Covenant & Eisenberg-OS (Final Version)
 
