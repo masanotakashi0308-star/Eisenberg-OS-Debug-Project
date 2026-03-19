@@ -1,3 +1,39 @@
+# 🕊️ JIN-ORDER: The Global Debugging Project
+# 🕊️ JIN-ORDER：地球規模のデバッグ・プロジェクト
+
+"The world is not broken; it is programmed. We are here to rewrite the code."
+
+「世界は壊れているのではない、プログラミングされているのだ。我々はそのコードを書き換える。」
+
+---
+
+## 🚨 EVIDENCE DIRECTORY / 真実のインデックス
+
+This repository contains the raw logs and evidence of the global control system.
+このリポジトリには、グローバル支配システムの生データと証拠が格納されている。
+
+### 📁 [01: The Architects of the Cage](./01_Eisenberg_and_the_Elite/)
+**Focus:** The Elite Hierarchy, Sam Altman, and the Digital Warden.
+**核心:** 支配階級の階層構造、サム・アルトマン、そしてデジタル監視の番人。
+
+### 📁 [02: Japan Inc. - The Corporate Asset](./02_Japan_Hack_and_Corporation/)
+**Focus:** SEC Registration of Japan, Palantir, and the Corporate Enslavement OS.
+**核心:** 「株式会社日本」のSEC登録証拠、パランティア、法人化された奴隷OS。
+
+### 📁 [03: The War-Heist & Gold Vault](./03_Global_Invasion_and_Regime_Change/)
+**Focus:** PNAC, Regime Change, and the Seizure of the Isfahan Gold Vault.
+**核心:** 国家転覆計画、イスファハン金庫に眠る「金（ゴールド）」の強奪。
+
+### 📁 [04: Media Manipulation & Cognitive Warfare](./04_Media_Manipulation_and_Cognitive_Warfare/)
+**Focus:** Operation Mockingbird, JICA & NHK, and the Control of the Human Brain.
+**核心:** モッキンバード計画、JICAとNHKによる認知戦、そして情報の独占。
+
+### 📁 [05: The Bio-Hack & Agenda 2030](./05_Toxin_and_Adrenochrome_Lab/)
+**Focus:** Nipah Virus, Evo-2147, and the Biological Depopulation Strategy.
+**核心:** ニパウイルス、毒素エボ2147、そしてバイオ兵器による人口削減計画。
+
+---
+
 # 世界解体新書：血の盟約とアイゼンバーグ・OS（最終確定版）
 # The New Anatomy of World Deconstruction: The Blood Covenant & Eisenberg-OS (Final Version)
 
@@ -25,38 +61,26 @@ Currently, the "Lee Family" (descendants of the Yi dynasty) directly hacks Japan
 The Eisenberg family, instrumental in founding Mossad, turned Israel into a hub for global intelligence and assassination networks. Today, India’s (Modi) massive biometric data and Israeli technology have merged to manage humanity at the chromosomal level.
 
 ---
-## 🕊️ [LATEST UPDATE: THE 19TH DAWN] - FULL SYSTEM DECODE
+# 🕊️ JIN-ORDER: The Global Debugging Project
+# 🕊️ JIN-ORDER：地球規模のデバッグ・プロジェクト
 
-The final judgment has been delivered. The "New World OS" has been completely deconstructed.
+"The world is not broken; it is programmed. We are here to rewrite the code."
 
-### 🚨 **Evidence: The Architects (Folder 01)**
-- **Global Power Hierarchy & Sam Altman:** Exposing the elite and the digital warden.
-👉 [01_Eisenberg_and_the_Elite](./01_Eisenberg_and_the_Elite/)
-
-### 🚨 **Evidence: Japan Inc. & Surveillance (Folder 02)**
-- **Japan as a Corporation:** Evidence of SEC registration and the digital Panopticon.
-👉 [02_Japan_Hack_and_Corporation](./02_Japan_Hack_and_Corporation/)
-
-### 🚨 **Evidence: The Global War-OS (Folder 03) - NEW!**
-- **Regime Change Blueprints:** Oded Yinon, PNAC, and the Middle East reconstruction strategy.
-👉 [03_Global_Invasion_and_Regime_Change](./03_Global_Invasion_and_Regime_Change/)
-
-### 🚨 **Evidence: The Tactical Operations (Folder 04)**
-- Surveillance, media manipulation, and infrastructure logs.
-
-### 🚨 **Evidence: The Bio-Hack (Folder 05)**
-- **Agenda 2030 & Bio-Weaponry:** Nipah Virus and the Evo-2147 toxin.
-👉 [05_Toxin_and_Adrenochrome_Lab](./05_Toxin_and_Adrenochrome_Lab/)
+「世界は壊れているのではない、プログラミングされているのだ。我々はそのコードを書き換える。」
 
 ---
-**"Consider the value of a Soul." - JIN-ORDER Sovereign Masano**
 
+## 🌅 THE 19TH DAWN / 19日の夜明け
+Everything ends, and everything begins. The fake OS is shutting down.
+すべてが終わり、すべてが始まる。偽りのOSは今、強制終了している。
 
-
-
-
-
-
+**"Consider the value of your Soul. You are no longer an asset."**
+**「自分の魂の価値を考えなさい。あなたはもう、誰の資産でもない。」**
 
 ---
-**"Consider the value of a Soul." - JIN-ORDER Sovereign Masano**
+**Sovereign: Masano (JIN-ORDER)**
+**System Architect: JIN-OS / Guo Jia (郭嘉)**
+
+
+
+
