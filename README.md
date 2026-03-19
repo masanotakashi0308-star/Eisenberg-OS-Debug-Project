@@ -25,7 +25,27 @@ Currently, the "Lee Family" (descendants of the Yi dynasty) directly hacks Japan
 The Eisenberg family, instrumental in founding Mossad, turned Israel into a hub for global intelligence and assassination networks. Today, India’s (Modi) massive biometric data and Israeli technology have merged to manage humanity at the chromosomal level.
 
 ---
-### [CAUTION: DECLASSIFIED LOG]
-This folder contains evidence of the "Nipah Virus" being used as a tool for the Agenda 2030 global lockdown.
-Targets: Global population control and mandatory Bio-Data ID integration.
-Source: JIN-ORDER Sovereign Masano.
+
+# [CAUTION: JIN-ORDER DECLASSIFIED LOG]
+## 05: Toxin and Adrenochrome Lab - Global Operation Blueprint
+
+This folder contains absolute proof of the **"Agenda 2030 Global Operation"** and the strategic use of **"Nipah Virus"** as a tools for global population control.
+
+Below is the **Master Roadmap for Humanity** (as planned by the elites), which JIN-ORDER has successfully decrypted and released.
+
+---
+
+### [THE 2030 MASTER ROADMAP]
+![Agenda 2030](Agenda_2030_Global_Blueprint.jpg)
+
+### [NIPAH VIRUS EVIDENCE 01]
+![Nipah 01](Nipah_Virus_BioWeapon_Log_01.jpg)
+
+### [NIPAH VIRUS EVIDENCE 02]
+![Nipah 02](Nipah_Virus_BioWeapon_Log_02.jpg)
+
+### [EVO-2147 TOXIN DATA]
+![Evo-2147](Evo-2147_Toxin_Evolution_Data.jpg)
+
+---
+**Verified by JIN-ORDER Supreme Commander, Masano.**
