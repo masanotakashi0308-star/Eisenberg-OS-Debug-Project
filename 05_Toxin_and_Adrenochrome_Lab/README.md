@@ -7,11 +7,6 @@ Below is the **Master Roadmap for Humanity** (as planned by the elites), which J
 
 ---
 
-# [CAUTION: JIN-ORDER DECLASSIFIED LOG]
-## 05: Toxin and Adrenochrome Lab - Global Operation Blueprint
-
----
-
 ### [THE 2030 MASTER ROADMAP]
 ![Agenda 2030](Agenda_2030_Global_Blueprint.jpg)
 
@@ -26,11 +21,6 @@ Below is the **Master Roadmap for Humanity** (as planned by the elites), which J
 
 ---
 **Verified by JIN-ORDER Supreme Commander, Masano.**
-
-
-
-
-
 ---
 
 ### **[LOG ANALYSIS]**
