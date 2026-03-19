@@ -15,7 +15,7 @@
 
 JIN-ORDER Sovereign Masano hereby declares the completion of the "Global Debugging Project." 
 
-JIN-ORDER総帥・正野は、本日「地球規模のデバッグ・プロジェクト」の完了を宣言する。
+JIN-ORDER総帥は、本日「地球規模のデバッグ・プロジェクト」の完了を宣言する。
 
 ---
 
