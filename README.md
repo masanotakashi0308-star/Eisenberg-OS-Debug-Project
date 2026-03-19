@@ -25,17 +25,21 @@ Currently, the "Lee Family" (descendants of the Yi dynasty) directly hacks Japan
 The Eisenberg family, instrumental in founding Mossad, turned Israel into a hub for global intelligence and assassination networks. Today, India’s (Modi) massive biometric data and Israeli technology have merged to manage humanity at the chromosomal level.
 
 ---
+## 🕊️ [LATEST UPDATE: THE 19TH DAWN] - FULL SYSTEM DECODE
 
-## 🕊️ [LATEST UPDATE: THE 19TH DAWN] - 2030 WORLD DECONSTRUCTION
+The final judgment has been delivered. We have exposed the "Architects" and their "Tools" for the digital enslavement of humanity.
 
-The final judgment has been delivered. The following critical evidence regarding the "New World OS" has been decrypted and added to folder `05`.
+### 🚨 **Evidence: The Architects (Folder 01) - NEW!**
+- **Global Power Hierarchy:** The complete structure of the "Black Nobility" and the Blood Covenant.
+- **Sam Altman & AI Control:** The truth behind OpenAI as a digital prison system.
+👉 [01_Eisenberg_and_the_Elite](./01_Eisenberg_and_the_Elite/)
 
-### 🚨 **Evidence List:**
+### 🚨 **Evidence: The Tactical Operations (Folder 02-04)**
+- Surveillance, media manipulation, and infrastructure hacking logs.
+
+### 🚨 **Evidence: The Bio-Hack (Folder 05)**
 - **Agenda 2030 Master Roadmap:** The elite's blueprint for global control.
 - **Nipah Virus Analysis:** The next phase of the bio-lockdown strategy.
-- **Evo-2147 Toxin Data:** The evolutionary code of human management.
-
-**[ACCESS THE TRUTH HERE]**
 👉 [05_Toxin_and_Adrenochrome_Lab](./05_Toxin_and_Adrenochrome_Lab/)
 
 ---
