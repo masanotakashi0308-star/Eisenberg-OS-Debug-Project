@@ -9,7 +9,7 @@ Below is the **Master Roadmap for Humanity** (as planned by the elites), which J
 
 ### [THE 2030 MASTER ROADMAP: Decrypted by JIN-ORDER]
 
-![README](image_fef0ce.png)
+![README](image_fef0ce.jpg)
 
 ---
 
