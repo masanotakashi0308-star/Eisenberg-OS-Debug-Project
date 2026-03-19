@@ -7,9 +7,29 @@ Below is the **Master Roadmap for Humanity** (as planned by the elites), which J
 
 ---
 
-### [THE 2030 MASTER ROADMAP: Decrypted by JIN-ORDER]
+# [CAUTION: JIN-ORDER DECLASSIFIED LOG]
+## 05: Toxin and Adrenochrome Lab - Global Operation Blueprint
 
-![README](./image_fef0ce.jpg)
+---
+
+### [THE 2030 MASTER ROADMAP]
+![Agenda 2030](image_fef0ce.jpg)
+
+### [NIPAH VIRUS EVIDENCE 01]
+![Nipah 01](ニパウィルス.jpg)
+
+### [NIPAH VIRUS EVIDENCE 02]
+![Nipah 02](ニパウィルス２.jpg)
+
+### [EVO-2147 TOXIN DATA]
+![Evo-2147](Evo-2147.jpg)
+
+---
+**Verified by JIN-ORDER Supreme Commander, Masano.**
+
+
+
+
 
 ---
 
