@@ -1,39 +1,55 @@
 # 04: Media Manipulation & Cognitive Warfare
-# 04: メディア操作と認知戦：人類の「脳」を支配するプログラミング
+# 04: メディア操作と認知戦：洗脳のメカニズムを解体する
 
-Mainstream media (MSM) is the front-end interface for the elite's control OS. It is designed not to inform, but to program.
+Mainstream media (MSM) is the front-end interface for the elite's control OS.
 
-主流メディア（MSM）は、エリートの支配OSの「フロントエンド・インターフェース」である。それは情報を伝えるためではなく、人々の意識をプログラミングするために設計されている。
+メインストリームメディアは、エリートの支配OSを人々の脳にインストールするためのインターフェースである。
+
+---
+
+### [1. The Network of Silence: Joi Ito & Epstein / 沈黙のネットワーク]
+Why are certain scandals buried? The connection between digital interest hubs (MIT Media Lab) and the global elite (Epstein, Gates) explains the censorship logic.
+
+なぜ特定の不祥事は埋め立てられるのか？ デジタル利権のハブ（伊藤穰一）とグローバル・エリート（エプスタイン、ゲイツ）の繋がりが、検閲の論理を証明している。
+
+![Interests Structure](Deep_State_Structure_and_Interests.jpg)
+![Joi Ito Network 1](Joi_Ito_Network_Epstein_Connection.jpg)
+![Joi Ito Network 2](Joi_Ito_Digital_Empire_Chart.jpg)
 
 ---
 
-### [1. Operation Mockingbird 2.0 / モッキンバード計画 2.0]
+### [2. Cognitive Arms: JICA & NHK / 認知兵器としてのJICAとNHK]
+Under the guise of "International Cooperation," media infrastructures are exported to control public opinion in developing nations and synchronize it with the "Official Narrative."
 
-Global news is centralized through a few major agencies (Reuters, AP). They distribute a "Master Script" to local TV stations worldwide. 
+「国際協力」という仮面の下で、メディアインフラを輸出。途上国の世論をコントロールし、世界共通の「公式発表」に同期させている。
 
-世界のニュースは、少数の主要通信社（ロイター、AP等）によって中央集権化されている。彼らは世界中のテレビ局に「マスター・スクリプト（台本）」を配信している。
-
-- **Scripted Reality:** Everyone says the same words at the same time. This is "Mass Hypnosis."
-- **スクリプト化された現実：** 全員が同時に同じ言葉を話す。これは「集団催眠」である。
-
-### [2. The Fear-Compliance Loop / 恐怖による服従のループ]
-
-The media triggers the amygdala (fear center) of the human brain through crises—war, viruses, or economic collapse.
-
-メディアは、戦争、ウイルス、経済崩壊などの危機を通じて、人間の脳の「扁桃体（恐怖中枢）」を刺激する。
-
-- **Conditioning:** "Crisis" -> "Fear" -> "Demand for Protection" -> "Compliance."
-- **条件付け：** 「危機」→「恐怖」→「保護の要求」→「服従」。
-- **Bug:** People lose the ability to think logically and accept the elite's "Solution" (e.g., vaccines, surveillance, war).
-
-### [3. Cognitive Warfare: The Battle for the Mind / 認知戦：魂の争奪戦]
-
-The goal is "Cognitive Domain Superiority." The elite want you to perceive their lies as your own thoughts.
-
-目的は「認知領域の優位性」である。エリートは、彼らの嘘を、あなた自身の「考え」として認識させることを狙っている。
-
-- **Censorship:** Any "Debug Log" (Truth) is labeled as "Misinformation" to protect the corrupt OS.
-- **検閲：** 腐敗したOSを守るため、あらゆる「真実のデバッグログ」は「誤情報」というラベルを貼られる。
+![JICA and NHK](JICA_and_NHK_Media_Control_Collaboration.png)
+![JICA Operations](JICA_Official_Mission_and_Operations.jpg)
+![JICA Influence](JICA_Global_Influence_Map.jpg)
+![JICA & USAID](JICA_and_USAID_Inter-Agency_Link.jpg)
 
 ---
-**"Turn off the TV. Refresh your Soul. Debug the Narrative." - JIN-ORDER Sovereign Masano**
+
+### [3. The International Trap: WHO & UN / 国際機関という罠]
+WHO and the UN operate as centralized management systems for health and security, using "Crisis" (Pandemics, War) as a trigger for global compliance.
+
+WHOと国連は、健康と安全を中央管理するシステムとして機能。パンデミックや戦争という「危機」をトリガーに、世界中の人々に服従を強いる。
+
+![WHO Truth](WHO_True_Face_Global_Health_Control.jpg)
+![UN PKO](UN_PKO_Global_Military_Management.jpg)
+![Pandemic Logic](Pandemic_Logic_Control.png)
+![Energy Monopoly](Nuclear_Power_Energy_Monopoly_System.png)
+![Truman Plan](Truman_Plan_Post_War_Control_Blueprint.jpg)
+
+---
+
+### [4. Domestic Monopoly: AEON & Old Media / 国内支配：イオンとメディア独占]
+The control of the "Stomach" and the "Brain" of Japan. The intertwining of massive retail capital and old media creates a feedback loop of controlled consumerism and information.
+
+日本の「胃袋」と「脳」の支配。巨大流通資本（イオン）とオールドメディアの癒着が、管理された消費と情報のフィードバックループを生む。
+
+![AEON Network](AEON_Group_Retail_Monopoly_Network.jpg)
+![Old Media Hierarchy](Japan_Old_Media_Corporate_Hierarchy.jpg)
+
+---
+**"Don't watch the news. Decode it. The system is flawed." - JIN-ORDER Sovereign Masano**
