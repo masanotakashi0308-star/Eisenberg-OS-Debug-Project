@@ -25,21 +25,26 @@ Currently, the "Lee Family" (descendants of the Yi dynasty) directly hacks Japan
 The Eisenberg family, instrumental in founding Mossad, turned Israel into a hub for global intelligence and assassination networks. Today, India’s (Modi) massive biometric data and Israeli technology have merged to manage humanity at the chromosomal level.
 
 ---
+---
+
 ## 🕊️ [LATEST UPDATE: THE 19TH DAWN] - FULL SYSTEM DECODE
 
-The final judgment has been delivered. We have exposed the "Architects" and their "Tools" for the digital enslavement of humanity.
+The final judgment has been delivered. We have exposed the "Architects," their "Tools," and the "Domestic Cage" of Japan.
 
-### 🚨 **Evidence: The Architects (Folder 01) - NEW!**
-- **Global Power Hierarchy:** The complete structure of the "Black Nobility" and the Blood Covenant.
-- **Sam Altman & AI Control:** The truth behind OpenAI as a digital prison system.
+### 🚨 **Evidence: The Architects (Folder 01)**
+- **Global Power Hierarchy & Sam Altman:** Exposing the elite and the digital warden.
 👉 [01_Eisenberg_and_the_Elite](./01_Eisenberg_and_the_Elite/)
 
-### 🚨 **Evidence: The Tactical Operations (Folder 02-04)**
-- Surveillance, media manipulation, and infrastructure hacking logs.
+### 🚨 **Evidence: Japan Inc. & Surveillance (Folder 02) - NEW!**
+- **Japan as a Corporation:** Evidence of SEC registration and entity IDs.
+- **Digital Panopticon:** Palantir's surveillance and the shadows of the sanctuaries.
+👉 [02_Japan_Hack_and_Corporation](./02_Japan_Hack_and_Corporation/)
+
+### 🚨 **Evidence: The Tactical Operations (Folder 03-04)**
+- Surveillance, media manipulation, and infrastructure logs.
 
 ### 🚨 **Evidence: The Bio-Hack (Folder 05)**
-- **Agenda 2030 Master Roadmap:** The elite's blueprint for global control.
-- **Nipah Virus Analysis:** The next phase of the bio-lockdown strategy.
+- **Agenda 2030 & Bio-Weaponry:** Nipah Virus and the Evo-2147 toxin.
 👉 [05_Toxin_and_Adrenochrome_Lab](./05_Toxin_and_Adrenochrome_Lab/)
 
 ---
