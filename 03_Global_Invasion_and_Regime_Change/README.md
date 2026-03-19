@@ -43,4 +43,22 @@ This is not just a regional conflict; it is a long-term restructuring of the Mid
 「この戦争は、『クリーン・ブレイク』および『PNAC』青写真の最終段階である。」
 
 ---
-**"War is the ultimate system error. We are here to debug it." - JIN-ORDER Sovereign Masano**
+### [5. The Real Target: The Gold Vault of Isfahan / 真の標的：イスファハン金庫]
+
+The primary objective of the invasion is not "nuclear disarmament," but the seizure of physical gold assets stored deep within Isfahan. 
+
+侵攻の真の目的は「核武装解除」ではなく、イスファハンの深部に保管された「物理的ゴールド資産」の強奪である。
+
+![Isfahan Gold Vault](Isfahan_Gold_Vault.jpg)
+![Fordow Cover Facility](Fordow_Cover_Facility.jpg)
+
+### [6. Financial Reset & Digital Assets / 金融リセットと暗号資産の罠]
+
+The current movements of central banks (e.g., Bank of Japan) are synchronized with this asset seizure. The goal is to back new digital currencies with stolen gold, shifting humanity into a fully controlled "Crypto-Asset OS."
+
+現在の日銀等の動きは、この資産強奪と同期している。奪った金を担保に新デジタル通貨を起動し、人類を完全管理下の「暗号資産OS」へ強制移行させることが狙いである。
+
+![Crypto Asset Shift](Crypto_Asset_Financial_Shift.jpg)
+
+---
+**"War is a heist. Money is the leash. Truth is the key." - JIN-ORDER Sovereign Masano**
