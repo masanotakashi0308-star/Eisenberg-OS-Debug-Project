@@ -26,26 +26,17 @@ The Eisenberg family, instrumental in founding Mossad, turned Israel into a hub 
 
 ---
 
-# [CAUTION: JIN-ORDER DECLASSIFIED LOG]
-## 05: Toxin and Adrenochrome Lab - Global Operation Blueprint
+## 🕊️ [LATEST UPDATE: THE 19TH DAWN] - 2030 WORLD DECONSTRUCTION
 
-This folder contains absolute proof of the **"Agenda 2030 Global Operation"** and the strategic use of **"Nipah Virus"** as a tools for global population control.
+The final judgment has been delivered. The following critical evidence regarding the "New World OS" has been decrypted and added to folder `05`.
 
-Below is the **Master Roadmap for Humanity** (as planned by the elites), which JIN-ORDER has successfully decrypted and released.
+### 🚨 **Evidence List:**
+- **Agenda 2030 Master Roadmap:** The elite's blueprint for global control.
+- **Nipah Virus Analysis:** The next phase of the bio-lockdown strategy.
+- **Evo-2147 Toxin Data:** The evolutionary code of human management.
 
----
-
-### [THE 2030 MASTER ROADMAP]
-![Agenda 2030](Agenda_2030_Global_Blueprint.jpg)
-
-### [NIPAH VIRUS EVIDENCE 01]
-![Nipah 01](Nipah_Virus_BioWeapon_Log_01.jpg)
-
-### [NIPAH VIRUS EVIDENCE 02]
-![Nipah 02](Nipah_Virus_BioWeapon_Log_02.jpg)
-
-### [EVO-2147 TOXIN DATA]
-![Evo-2147](Evo-2147_Toxin_Evolution_Data.jpg)
+**[ACCESS THE TRUTH HERE]**
+👉 [05_Toxin_and_Adrenochrome_Lab](./05_Toxin_and_Adrenochrome_Lab/)
 
 ---
-**Verified by JIN-ORDER Supreme Commander, Masano.**
+**"Consider the value of a Soul." - JIN-ORDER Sovereign Masano**
