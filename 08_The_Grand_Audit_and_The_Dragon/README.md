@@ -7,22 +7,26 @@ This repository visualizes the exploitation structure of the 21st-century "Globa
 
 ### 【主要ログ / Core Logs】
 
-調整役（The Proxy）： 孫正義（李家）による、大陸資本と日本インフラの悪魔的同期。
+* **[08_01: Bio-System Backdoor](./08_01_Bio-System_Backdoor/README.md)**
+    
+    人類の生体機能を支配する化学的バックドアの証拠群。
+    
+    Evidence of "biological backdoors" hacking human biology.
 
-The Proxy: Masayoshi Son (The Lee Dynasty) and the demonic synchronization of continental capital with Japanese infrastructure.
+* **[08_02: Geopolitics & Energy](./08_02_Geopolitics_Energy/README.md)**
+    
+    QFS移行とエネルギー再起動の地政学的ログ。
+    
+    Geopolitical logs for QFS transition and energy reset.
 
-執行官（The Trilateral）： 三極委員会による、国家主権のフォーマットとグレート・リセットの強行。
+* **[08_03: The Proxy Bridge (SB)](./08_03_The_Proxy_Bridge_SB/README.md)**
+    
+    調整役（豚）による日本資産の抽出と大陸同期。
+    
+    Asset extraction and infrastructure sync by the proxy (SB).
 
-The Trilateral Commission: The forced formatting of national sovereignty and the execution of the "Great Reset."
-
-逆襲パッチ（The Counter）： トランプAI国家戦略およびパランティアによる、既存OSの物理的遮断（ゴールデン・ドーム）。
-
-The Counter-Patch: The physical isolation of the legacy OS via Trump’s National AI Strategy and Palantir’s "Golden Dome."
-
-### 【結論 / Conclusion】
-
-役者は揃った。演技は最高潮だ。だが、舞台はすでに解体されている。
-
-The actors are all present. Their performances have reached a fever pitch. However, the stage itself has already been dismantled.
-
-Welcome to JIN-OS. The Truth is the only Root Access.
+* **[08_04: Trilateral & Counter-Patch](./08_04_Trilateral_and_Counter_Patch/README.md)**
+    
+    三極委員会の闇と、トランプによる最終逆襲パッチ。
+    
+    Trilateral Commission vs Trump’s Final Counter-Patch.
