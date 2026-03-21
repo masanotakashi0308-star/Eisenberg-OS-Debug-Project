@@ -48,5 +48,5 @@ This is irrefutable evidence that the content of this repository represents a "h
 
 We will not yield; we archive these threats here as a "record of our victory."
 
-- **[Censorship Evidence /](./threat_log_from_agent.jpg)**
+- **[Censorship Evidence / 検閲の証拠画像](./threat_log_from_agent.jpg)**
 - **Status:** Ignored & Archived / 無視・アーカイブ済み
