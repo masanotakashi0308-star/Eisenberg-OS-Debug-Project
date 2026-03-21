@@ -30,3 +30,23 @@ This repository visualizes the exploitation structure of the 21st-century "Globa
     三極委員会の闇と、トランプによる最終逆襲パッチ。
     
     Trilateral Commission vs Trump’s Final Counter-Patch.
+
+---
+## ⚠️ Censorship Attempt / 検閲の試み
+
+**[JP]**
+本プロジェクトの公開直後、特定の勢力から「法的措置」を示唆する検閲の試み（DM）がありました。
+
+これは、本リポジトリの内容が彼らにとって「極めて不都合な真実」であることの動かぬ証拠です。
+
+我々は屈することなく、これらの脅迫を「勝利の記録」としてここに保存します。
+
+**[EN]**
+Immediately following the launch of this project, we received censorship attempts (via DM) from certain entities suggesting "legal action."
+
+This is irrefutable evidence that the content of this repository represents a "highly inconvenient truth" for them.
+
+We will not yield; we archive these threats here as a "record of our victory."
+
+- **[Censorship Evidence /](./threat_log_from_agent.jpg)**
+- **Status:** Ignored & Archived / 無視・アーカイブ済み
