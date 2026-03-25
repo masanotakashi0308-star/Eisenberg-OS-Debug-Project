@@ -1,4 +1,4 @@
-![Amaterasu Okami](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/edit/main/天照大御神.jpg?raw=true)
+![Amaterasu Okami](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/edit/main/天照大御神.jpg)
 
 # AMATERASU OS - The Core Philosophy of JIN-ORDER
 
