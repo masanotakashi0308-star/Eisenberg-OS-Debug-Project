@@ -1,3 +1,12 @@
+# Eisenberg-OS-Debug-Project
+
+## 🚨 MISSION CRITICAL: [Read the AMATERASU OS Manifesto](./MANIFESTO.md)
+* **Target:** Universal Harmony (八紘一宇)
+* **Protocol:** Eternal Prosperity (天壌無窮)
+* **Mission:** Dismantle Global Abuses (Human Trafficking & Exploitation)
+
+---
+
 # 🕊️ JIN-ORDER: Eisenberg OS Full Deconstruction
 # 🕊️ JIN-ORDER：アイゼンバーグOS・完全解体プロジェクト
 
