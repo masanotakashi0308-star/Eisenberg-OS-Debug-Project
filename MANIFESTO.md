@@ -1,3 +1,5 @@
+![Amaterasu Okami](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/edit/main/天照大御神.jpg?raw=true)
+
 # AMATERASU OS - The Core Philosophy of JIN-ORDER
 
 ## ⛩️ Concept: Restoration of Universal Harmony
