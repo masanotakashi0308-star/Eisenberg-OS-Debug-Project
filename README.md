@@ -7,6 +7,11 @@
 
 ---
 
+## 🇯🇵 日本語マニフェストはこちら
+
+* **[AMATERASU OS マニフェスト (日本語版)](./README_JA.md)**
+
+---
 # 🕊️ JIN-ORDER: Eisenberg OS Full Deconstruction
 # 🕊️ JIN-ORDER：アイゼンバーグOS・完全解体プロジェクト
 
