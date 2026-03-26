@@ -65,7 +65,7 @@ To maintain this control, the "Old OS" deliberately suppresses technologies that
 ---
 # "The Engine of the Imperial OS: The Round Table Groups"
 # （帝国OSのエンジン：円卓会議グループ）
-![US-Japan Parasitic OS Connection Map](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/blob/main/assets/assets/%E6%97%A5%E7%B1%B3OS%E7%9B%B8%E9%96%A2%E5%9B%B3.jpg)
+!["The Engine of the Imperial OS: The Round Table Groups](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/blob/main/%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%9F%E3%83%AB%E3%83%8A%E3%83%BC%E5%86%86%E5%8D%93%E4%BC%9A%E8%AD%B0.jpg)
 
 ---
 > **"JIN-ORDER's mission is to overwrite this 2000-year-old Roman bug with the AMATERASU HARMONY OS."**
