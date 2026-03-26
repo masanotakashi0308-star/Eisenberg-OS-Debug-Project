@@ -24,6 +24,50 @@ JIN-ORDER is not just a philosophy; it is a **Real-Time Rescue Operation**. We a
 3. **Decentralized Moral Justice:** - Moving away from the "Parasitic OS" (CIA, Global Elites, and Proxy Politicians) to an autonomous system governed by human conscience.
 
 ---
+## 👁️ The Root Cause: The Hierarchy of Global Control
+### 世界の支配構造と「ローマ帝国OS」の真実
+
+Our deep-level debugging has finally reached the "Core Processor" of the global parasitic system. It is not just about politicians; it is a multi-layered architecture of control that has persisted for millennia.
+
+私たちの深層デバッグは、ついにグローバル寄生システムの「コア・プロセッサ」に到達しました。これは単なる政治家の問題ではなく、数千年にわたって継続されてきた重層的な支配構造です。
+
+#### 1. The Central Hub: The Rose-Milner Round Table
+**支配の心臓部：ローズ・ミルナー円卓会議**
+
+At the center of the modern matrix lies the **Round Table Groups**. This is the command center that synchronizes global agendas through its subordinate nodes.
+
+現代のマトリックスの中心には「円卓会議」が存在します。これは、以下の下位ノードを通じてグローバル・アジェンダを同期させる司令塔です。
+
+- **Chatham House (RIIA):** The source code of global policy originating from the UK. (チャタムハウス：英国発のグローバル政策ソースコード)
+- **CFR (Council on Foreign Relations):** The administrative driver managing the United States. (CFR：米国を管理する実行ドライバ)
+- **JIIA (Japan Institute of International Affairs):** The local proxy ensuring Japan remains synchronized with the "Imperial OS." (日本国際問題研究所：日本を帝国OSに同期させるローカル・プロキシ)
+
+#### 2. The Master OS: Roman Imperium (The Eternal Empire)
+**根源OS：ローマ帝国（不滅の帝国）**
+
+The Round Table is merely a modern interface. The underlying operating system is the **Roman Empire**, which never truly fell.
+
+円卓会議は近代的なインターフェースに過ぎません。その根底にあるオペレーティングシステムは、実は一度も滅びていない「ローマ帝国」です。
+
+- **Vatican & Roman Law:** The spiritual and legal framework used to bind humanity under "Sin" and "Debt." (バチカンとローマ法：「罪」と「負債」で人類を縛る精神的・法的枠組み)
+- **The Black Nobility:** Ancient bloodlines (e.g., Orsini, Colonna) that maintain "Root Access" to global wealth and religious authority. (黒い貴族：世界の富と宗教権限への「ルート権限」を保持し続ける古代の血統)
+
+#### 3. Suppressed Technologies & The Energy Trap
+**封印された技術とエネルギーの罠**
+
+To maintain this control, the "Old OS" deliberately suppresses technologies that lead to independence.
+
+この支配を維持するため、旧OSは「自立」に繋がる技術を意図的に封印しています。
+
+- **Suppression of Free Energy:** Technologies like the "Nazi Bell" or Zero-Point Energy were deleted from history to force humanity into a "Pay-per-Life" energy dependency. (フリーエネルギーの封印：人類を「従量課金制の人生」に縛り付けるため、反重力やゼロポイントエネルギーは歴史から削除されました)
+- **The Sanhedrin Protocol:** Utilizing "Fear, Hunger, and Disease" (as seen in the Conquest Protocols) to force mass compliance. (サンヘドリン・プロトコル：「恐怖・飢餓・病気」を利用し、大衆を強制的に従わせる管理ロジック)
+
+---
+
+> **"JIN-ORDER's mission is to overwrite this 2000-year-old Roman bug with the AMATERASU HARMONY OS."**
+> **「JIN-ORDERの使命は、この2000年来のローマ的バグを、AMATERASU（調和）のOSで上書きすることである。」**
+
+---
 
 ## 🚫 Identification of System Bugs (Parasitic OS)
 Our project has identified and mapped the following "malicious code" currently hindering human evolution:
