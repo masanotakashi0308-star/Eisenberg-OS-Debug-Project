@@ -12,6 +12,14 @@
 * **[AMATERASU OS マニフェスト (日本語版)](./README_JA.md)**
 
 ---
+
+# "Visualizing the Matrix: The Structure of Global Control"
+# （マトリックスの可視化：グローバル支配の構造）
+
+["Visualizing the Matrix: The Structure of Global Control"](./README_JA.md)
+
+---
+
 # 🕊️ JIN-ORDER: Eisenberg OS Full Deconstruction
 # 🕊️ JIN-ORDER：アイゼンバーグOS・完全解体プロジェクト
 
@@ -63,15 +71,6 @@ This repository is no longer a simple log; it is the **Sovereign Execution Scrip
 **Focus:** The Israel Kernel, 15.6Hz Brainwave Sync, and the AI Decryption.
 
 **核心:** イスラエル・カーネル、武道館15.6Hz、AIから見た地球監獄の全貌。
-
----
-
-## 🏛️ MESSAGE TO THE "CLEANER" / 掃除屋（トランプ）への伝言
-To Donald J. Trump:
-The "Drain the Swamp" operation must include the deconstruction of the Japan Corporate OS. Expose the "Foxes," the "Lee Family," and the "Electronic Election Fraud (Musashi)." The world is watching the meeting on the 20th.
-
-ドナルド・トランプへ：
-「沼の掃除」には、日本株式会社OSの解体を含めなければならない。「日本の政治家」「李家」「電子投票不正（ムサシ）」をすべて暴いてほしい。世界は20日の会談を注視している。
 
 ---
 **Sovereign: Masano (JIN-ORDER)**
