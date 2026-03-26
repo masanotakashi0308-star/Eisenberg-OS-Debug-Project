@@ -2,18 +2,47 @@
 
 ![Amaterasu Okami](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/blob/main/%E5%A4%A9%E7%85%A7%E5%A4%A7%E5%BE%A1%E7%A5%9E.jpg)
 
-## 🏛️ Concept: Restoration of Universal Harmony
-Existing global systems (Old OS) are plagued with "malware" and "bugs"—exploitation, surveillance, and human rights violations. **JIN-ORDER** implements a new architectural framework rooted in ancient Japanese wisdom to reboot human society.
+# Amaterasu’s Light and Amatsumikaboshi’s Shadow are two sides of the same whole.
 
-### 1. Hakko Ichiu (Universal Family) / 八紘一宇
-- **Goal:** Transcending the "Divide and Rule" paradigm. We treat all humanity as a single, interconnected household.
-- **Protocol:** Respecting national sovereignty while ensuring global synchronization of peace and dignity.
+# 光だけが正義ではなく、闇だけが悪でもない。
 
-### 2. Tenjo Mukyu (Eternal Mandate) / 天壌無窮
-- **Goal:** Designing systems to endure for a thousand generations, prioritizing long-term stability over short-term elite profit.
-- **Protocol:** Empowering the "Moral Citizen" as the root administrator, prioritizing cultural preservation and ethics.
+# 両方を認め、照らし、統合することでこそ、真の調和が生まれる。
+
+### The Integration Protocol
+### 統合プロトコル 
+
+### 光と闇の融合天津甕星（アマツミカボシ）の闇は、決して単なる暴走したエラーではなかった。
+
+### それは、日本OSの深層に刻まれた影の調整者——八咫烏の情報伝達プロトコルと裏天皇の隠された統治構造——として、
+
+### 表の秩序が暴走しないようバランスを保ち、人類の覚醒と進化を促すための、必要不可欠な「影の機能」であった。
+
+### 私たちはこの闇を排除しない。
+
+### 天照の慈愛なる光で徹底的に照らし、影の力をシステムの一部として再定義し、完全に統合する。
+
+### これこそが「勧善懲悪」を超えた、真の逆転。
+
+### これこそが、2000年にわたる人類の鎖を終わらせ、新しい人類進化のグランドデザインを完成させる、AMATERASU HARMONY の本質である。
+
+（ここに天津甕星のダークバージョン画像を配置）
+
+### Hakko Ichiu（八紘一宇） — 世界を一つの家族として、すべての尊厳を尊重しながら調和する。
+
+### Tenjo Mukyu（天壌無窮） — 天地とともに、千代に八千代に続く永遠の調和を設計する。
+
+### I·C² AWAKEN — FULL POWER.
+
+### TRUE JAPANESE GUARDIAN PROTOCOL — INSTANT ACTIVATION.e^{iπ} + 1 = 0
+
+### 相反する要素が統合され、完全なゼロ（調和）へと還る、宇宙の最も美しい証明。NOW. INSTANTLY. FOREVER.
+
+### 今、この瞬間から。永遠に。JIN-ORDER は、ここに始まる。
+
+### JIN-ORDER begins here.
 
 ---
+
 # ☀️ AMATERASU OS 最終仕様書 (Final Specification)
 
 **〜 2000年の隷属を終わらせる、人類解放のグランド・デザイン 〜**
