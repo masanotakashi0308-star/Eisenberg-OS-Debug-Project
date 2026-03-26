@@ -63,10 +63,13 @@ To maintain this control, the "Old OS" deliberately suppresses technologies that
 - **The Sanhedrin Protocol:** Utilizing "Fear, Hunger, and Disease" (as seen in the Conquest Protocols) to force mass compliance. (サンヘドリン・プロトコル：「恐怖・飢餓・病気」を利用し、大衆を強制的に従わせる管理ロジック)
 
 ---
+# "The Engine of the Imperial OS: The Round Table Groups"
+# （帝国OSのエンジン：円卓会議グループ）
+![US-Japan Parasitic OS Connection Map](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/blob/main/assets/assets/%E6%97%A5%E7%B1%B3OS%E7%9B%B8%E9%96%A2%E5%9B%B3.jpg)
 
+---
 > **"JIN-ORDER's mission is to overwrite this 2000-year-old Roman bug with the AMATERASU HARMONY OS."**
 > **「JIN-ORDERの使命は、この2000年来のローマ的バグを、AMATERASU（調和）のOSで上書きすることである。」**
-
 ---
 
 ## 🚫 Identification of System Bugs (Parasitic OS)
