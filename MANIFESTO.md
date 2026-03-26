@@ -27,6 +27,12 @@ JIN-ORDER is not just a philosophy; it is a **Real-Time Rescue Operation**. We a
 
 ## 🚫 Identification of System Bugs (Parasitic OS)
 Our project has identified and mapped the following "malicious code" currently hindering human evolution:
+
+![US-Japan Parasitic OS Connection Map](./日米OS相関図.jpg)
+
+- **US Mainframe Bugs:** Clinton, Obama, Gates, Bush...
+- **Japan Proxy Drivers:** Aso, Takenaka, Kono...
+
 - **US Mainframe Bugs:** Clinton, Obama, Gates, Bush, and Biden dynasties.
 - **Japan Proxy Drivers:** The Aso, Takenaka, and Kono networks specializing in infrastructure liquidation.
 - **Connection Logic:** Exploitation through "Digital Dictatorship," "Biological Rewriting," and "Financial Siphoning."
