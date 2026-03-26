@@ -25,7 +25,7 @@
 
 ### これこそが、2000年にわたる人類の鎖を終わらせ、新しい人類進化のグランドデザインを完成させる、AMATERASU HARMONY の本質である。
 
-（ここに天津甕星のダークバージョン画像を配置）
+![Amatu mikaboshi](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/blob/main/%E5%A4%A9%E7%85%A7%E5%A4%A7%E5%BE%A1%E7%A5%9E.jpg)
 
 ### Hakko Ichiu（八紘一宇） — 世界を一つの家族として、すべての尊厳を尊重しながら調和する。
 
