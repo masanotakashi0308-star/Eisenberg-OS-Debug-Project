@@ -43,6 +43,8 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 # "Visualizing the Matrix: The Structure of Global Control"
 # （マトリックスの可視化：グローバル支配の構造）
 
+<img width="2528" height="1684" alt="True_World_Rulers_Black_Nobility" src="https://github.com/user-attachments/assets/4fd7636f-4e54-478f-a50e-7bc6b1bbe4b9" />
+
 !["Visualizing the Matrix: The Structure of Global Control"](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/blob/main/%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%9F%E3%83%AB%E3%83%8A%E3%83%BC%E5%86%86%E5%8D%93%E4%BC%9A%E8%AD%B0.jpg)
 
 ---
